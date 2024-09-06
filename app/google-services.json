@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "719953755092",
+    "project_id": "smartrent-ef15b",
+    "storage_bucket": "smartrent-ef15b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719953755092:android:2f4db8eb0a40dd4af9b441",
+        "android_client_info": {
+          "package_name": "com.example.smartrent"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUP1NHoDlBxuE4y8QdSOKJ_YGOwhI0lYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
